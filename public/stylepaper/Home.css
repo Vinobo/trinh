@@ -1,5 +1,5 @@
 .bg-light{
-    background-color: #335a82!important;
+    background-color: #69a6e2!important;
 }
 
 body {
@@ -14,4 +14,8 @@ body {
 
 .card-text{
     color: red;
+}
+
+.text-lg-start{
+    background-color: #69a6e2!important;
 }
